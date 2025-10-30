@@ -1,0 +1,191 @@
+A Guide to the Linux Operating System
+
+Chapter 1: Introduction to Linux
+
+1.1 What is Linux?
+
+1.1.1 A Brief History
+
+1.1.2 The Open-Source Philosophy
+
+1.1.3 Linux vs. Other Operating Systems
+
+1.2 Understanding Distributions (Distros)
+
+1.2.1 What is a Distribution?
+
+1.2.2 Popular Distros (Ubuntu, Fedora, Debian, Arch)
+
+1.2.3 Choosing the Right Distro for You
+
+1.3 The Linux Kernel
+
+Chapter 2: Getting Started
+
+2.1 Installing Linux
+
+2.1.1 Trying Linux with a Live USB
+
+2.1.2 Installation Methods (Dual-Boot, Virtual Machine)
+
+2.1.3 The Installation Process
+
+2.2 The Desktop Environment
+
+2.2.1 What is a DE? (GNOME, KDE Plasma, XFCE, Cinnamon)
+
+2.2.2 Navigating the Desktop
+
+2.2.3 Basic System Settings
+
+2.3 The Linux File System Hierarchy Standard (FHS)
+
+2.3.1 Key Directories (/, /home, /etc, /var, /usr)
+
+2.3.2 Understanding File Paths
+
+Chapter 3: The Command-Line Interface (CLI)
+
+3.1 Introduction to the Shell
+
+3.1.1 What is a Shell? (Bash)
+
+3.1.2 Opening a Terminal
+
+3.2 Essential Navigation and File Commands
+
+3.2.1 pwd, ls, cd
+
+3.2.2 Creating Files and Directories (touch, mkdir)
+
+3.2.3 Copying, Moving, and Deleting (cp, mv, rm, rmdir)
+
+3.3 Getting Help
+
+3.3.1 The man pages
+
+3.3.2 The --help flag
+
+3.4 Viewing and Editing Files
+
+3.4.1 cat, less, more
+
+3.4.2 Command-Line Text Editors (Nano, Vim)
+
+Chapter 4: Software and Package Management
+
+4.1 Understanding Package Managers
+
+4.1.1 Repositories
+
+4.1.2 Dependencies
+
+4.2 Using Common Package Managers
+
+4.2.1 APT (Debian/Ubuntu)
+
+4.2.2 DNF/YUM (Fedora/RHEL)
+
+4.2.3 Pacman (Arch)
+
+4.3 Installing, Updating, and Removing Software
+
+4.4 Alternative Installation Methods (Snaps, Flatpaks, AppImages)
+
+Chapter 5: Users, Groups, and Permissions
+
+5.1 User and Group Management
+
+5.1.1 The root user and sudo
+
+5.1.2 Adding and Deleting Users (useradd, userdel)
+
+5.1.3 Managing Groups
+
+5.2 File Permissions
+
+5.2.1 Reading, Writing, and Executing
+
+5.2.2 Understanding chmod (Symbolic and Octal)
+
+5.2.3 Changing File Ownership (chown, chgrp)
+
+Chapter 6: Processes and System Monitoring
+
+6.1 What is a Process?
+
+6.2 Viewing Processes
+
+6.2.1 ps
+
+6.2.2 top and htop
+
+6.3 Managing Processes
+
+6.3.1 Foreground vs. Background Jobs
+
+6.3.2 Sending Signals (kill, killall, pkill)
+
+6.4 System Services (systemd)
+
+6.4.1 systemctl (start, stop, enable, disable)
+
+Chapter 7: Networking
+
+7.1 Basic Networking Concepts
+
+7.1.1 IP Addresses, DNS, Ports
+
+7.2 Command-Line Tools
+
+7.2.1 ip, ping, netstat
+
+7.2.2 curl and wget
+
+7.3 Secure Shell (SSH)
+
+7.3.1 Connecting to a Remote Server
+
+7.3.2 Key-Based Authentication
+
+7.4 Basic Firewall (ufw, firewalld)
+
+Chapter 8: Introduction to Shell Scripting
+
+8.1 What is Shell Scripting?
+
+8.2 Creating Your First Script
+
+8.2.1 The Shebang (#!/bin/bash)
+
+8.2.2 Making a Script Executable
+
+8.3 Scripting Basics
+
+8.3.1 Variables
+
+8.3.2 User Input (read)
+
+8.3.3 Conditional Statements (if, else)
+
+8.3.4 Loops (for, while)
+
+8.4 Command-Line Tools for Text Processing
+
+8.4.1 grep (Searching Text)
+
+8.4.2 sed (Stream Editor)
+
+8.4.3 awk (Pattern Scanning)
+
+8.5 Pipes (|) and Redirection (>, >>, <)
+
+Chapter 9: Advanced Topics
+
+9.1 Compiling from Source
+
+9.2 Kernel and Modules
+
+9.3 Introduction to Containers (Docker)
+
+9.4 Security Best Practices
