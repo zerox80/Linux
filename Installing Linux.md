@@ -1,5 +1,3 @@
-Here is a detailed, 2000-word explanation of the Linux installation process, following your provided structure.
-
 ## 2.1 Installing Linux
 
 Embarking on the journey of installing Linux is an empowering step for any computer user. It represents a move toward a world of open-source software, unparalleled customization, robust security, and the freedom to truly own and control your digital environment. For decades, Linux was perceived as an arcane operating system, accessible only to programmers and system administrators who were comfortable with a command-line interface. However, this perception is wonderfully, and thoroughly, outdated.
