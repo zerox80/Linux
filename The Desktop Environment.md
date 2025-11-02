@@ -1,5 +1,3 @@
-Here is a comprehensive explanation of the Linux Desktop Environment.
-
 ## 2.2 The Desktop Environment
 
 Welcome to one of the most defining—and often most confusing—aspects of the Linux ecosystem: the Desktop Environment. In operating systems like Windows or macOS, the user interface is fixed. The "desktop" *is* the operating system, and you cannot fundamentally change it. Linux operates on a different philosophy: **modularity**.
