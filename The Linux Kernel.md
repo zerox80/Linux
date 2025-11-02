@@ -1,7 +1,3 @@
-Here is a detailed explanation of Linux distributions.
-
-***
-
 ## 1.2 Understanding Distributions (Distros)
 
 If the Linux kernel is an engine, a **distribution** (or "distro") is the complete, drivable car. An engine by itself isn't useful to an everyday driver. You need a chassis, a steering wheel, seats, a transmission, and a dashboard. You also need to decide what *kind* of car you want: a reliable family sedan, a rugged off-road truck, or a high-performance sports car.
