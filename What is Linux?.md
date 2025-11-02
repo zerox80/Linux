@@ -1,7 +1,3 @@
-Here is a detailed explanation of the selected topics from your Table of Contents.
-
-***
-
 ## 1.1 What is Linux?
 
 At its most fundamental level, "Linux" is a kernel—the core component of an operating system. A kernel is the first program that loads when you turn on your computer. It acts as the central manager, a translator, and a traffic cop, sitting between your applications (like a web browser) and the physical hardware (like your CPU, memory, and hard drive). The kernel's job is to manage all of this hardware, allocate resources, and ensure that different programs can run simultaneously without interfering with each other. When you save a file, the kernel is what figures out where to physically store it on the disk. When you type on your keyboard, the kernel is what reads those signals and passes them to the correct application.
